@@ -1,0 +1,12 @@
+.nav-links{
+    text-decoration: none;
+   
+}
+.social-links{
+    margin-right: 200px;
+}
+
+.nav-links:hover{
+    font-weight: bold;
+    color: black;
+}
